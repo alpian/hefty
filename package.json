@@ -1,0 +1,23 @@
+{
+  "name": "hefty",
+  "version": "1.0.0",
+  "description": "Mucking about with ML and ETFs. I have no idea what I'm doing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpian/hefty.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alpian/hefty/issues"
+  },
+  "homepage": "https://github.com/alpian/hefty#readme",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
